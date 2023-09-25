@@ -10,7 +10,7 @@ year = sc.nextInt();
 
         
     
-century = ((int) year/100);
+century = (((int) year/100)+1);
 System.out.println("centry " + century);
 
 
